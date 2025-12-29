@@ -5,3 +5,4 @@
 . ./bin/install-mise.sh
 . ./bin/install-tmux.sh
 . ./bin/install-nvim.sh
+. ./bin/install-starship.sh
